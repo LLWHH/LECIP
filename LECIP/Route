@@ -1,0 +1,57 @@
+{
+  "type": "RouteList",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-18T14:43:05+08:00",
+  "data": [
+    {
+      "co": "RTHK",
+      "route": "104",
+      "orig_tc": "海澳",
+      "orig_en": "Hoi O",
+      "orig_routeing": "正常往海雲,特別往峰林",
+      "dest_tc": "機場",
+      "dest_en": "Airport",
+      "dest_routeing": "正常路線,峰林開"
+    },
+    {
+      "co": "RTHK",
+      "route": "P2",
+      "orig_tc": "中環(港景路)",
+      "orig_en": "Central (Bayview Avenue)",
+      "orig_routeing": "正常路線",
+      "dest_tc": "恆橫大橋口岸",
+      "dest_en": "Horizon Bridge Port",
+      "dest_routeing": "正常路線"
+    },
+    {
+      "co": "RTHK",
+      "route": "P2A",
+      "orig_tc": "南岸",
+      "orig_en": "La Terrazza",
+      "orig_routeing": "正常路線",
+      "dest_tc": "恆橫大橋口岸",
+      "dest_en": "Horizon Bridge Port",
+      "dest_routeing": "正常路線"
+    },
+    {
+      "co": "RTHK",
+      "route": "P2B",
+      "orig_tc": "中環(德政圍)",
+      "orig_en": "Central (Tak Ching Circuit)",
+      "orig_routeing": "正常路線",
+      "dest_tc": "恆橫大橋口岸",
+      "dest_en": "Horizon Bridge Port",
+      "dest_routeing": "正常路線"
+    },
+    {
+      "co": "RTHK",
+      "route": "NP2",
+      "orig_tc": "中環(聖佐治前地)",
+      "orig_en": "Central (St. George's Square)",
+      "orig_routeing": "正常路線",
+      "dest_tc": "恆橫大橋口岸",
+      "dest_en": "Horizon Bridge Port",
+      "dest_routeing": "正常路線"
+    }
+  ]
+}
