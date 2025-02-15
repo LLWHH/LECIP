@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "H8035",
+    "name_en": "Merry Mill Shopping Arcade",
+    "supp_en": "",
+    "sound_en": "rbxassetid://100907819063068",
+    "name_tc": "瑪麗購物大道",
+    "supp_tc": "",
+    "sound_tc": "",
+    "lat": "",
+    "long": ""
+  }
+}
