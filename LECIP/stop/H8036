@@ -6,10 +6,10 @@
     "stop": "H8035",
     "name_en": "Merry Mill Shopping Arcade",
     "supp_en": "",
-    "sound_en": "rbxassetid://100907819063068",
+    "sound_en": "",
     "name_tc": "瑪麗購物大道",
     "supp_tc": "",
-    "sound_tc": "",
+    "sound_tc": "rbxassetid://100907819063068",
     "lat": "",
     "long": ""
   }
