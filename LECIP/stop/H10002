@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "H10002",
+    "name_en": "Hanwick International Airport Bus Terminus",
+    "supp_en": "",
+    "sound_en": "rbxassetid://",
+    "name_tc": "恆域國際機場巴士總站",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://",
+    "lat": "",
+    "long": ""
+  }
+}
