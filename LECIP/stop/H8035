@@ -6,10 +6,10 @@
     "stop": "H8035",
     "name_en": "Hanwick Nüwa Hotel",
     "supp_en": "",
-    "sound_en": "rbxassetid://82369365623701",
+    "sound_en": "",
     "name_tc": "恆域頤居酒店",
     "supp_tc": "",
-    "sound_tc": "",
+    "sound_tc": "rbxassetid://82369365623701",
     "lat": "",
     "long": ""
   }
