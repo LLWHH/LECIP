@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "H8036",
+    "name_en": "Fullard Gardens",
+    "supp_en": "",
+    "sound_en": "rbxassetid://",
+    "name_tc": "富蘭居",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://100907819063068",
+    "lat": "",
+    "long": ""
+  }
+}
