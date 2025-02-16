@@ -1,0 +1,16 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-12-20T14:35:17+08:00",
+  "data": {
+    "stop": "H8040",
+    "name_en": "Airport Departure Hall",
+    "supp_en": "",
+    "sound_en": "rbxassetid://",
+    "name_tc": "機場離境大堂",
+    "supp_tc": "",
+    "sound_tc": "rbxassetid://87811493137244",
+    "lat": "",
+    "long": ""
+  }
+}
